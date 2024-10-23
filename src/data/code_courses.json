@@ -1,0 +1,65 @@
+
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Digital marketing",
+            "slug":"digital marketing",
+            "description":"Level up your digital marketing skills with advanced strategies and create impactful campaigns from concept to execution.",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/images/pic1.jpeg"
+        },
+        {
+            "id":2,
+            "title":"Frontend Developer",
+            "slug":"Frontend Developer",
+            "description":"Level up your frontend development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price":109.99,
+            "instructor":"Robert Johnson",
+            "isFeatured":true,
+            "image":"/images/pic2.jpeg"
+        },
+        {
+         "id":3,
+            "title":"Generative aftificial intelligence ",
+            "slug":"Generative aftificial intelligence",
+            "description":"Use generative AI to create dynamic, personalized content and optimize workflows, unlocking creativity and efficiency for advanced users.",
+            "price":119.99,
+            "instructor":"Jane Smith",
+            "isFeatured":false,
+            "image":"/images/pic3.png"   
+        },
+        {
+            "id":4,
+            "title":"Next.js",
+            "slug":"next-js",
+            "description":"Level up your Next.js expertise with cutting-edge techniques designed for intermediate to advanced developers. ",
+            "price":129.99,
+            "instructor":"Samson",
+            "isFeatured":true,
+            "image":"/images/pic4.png"
+        },
+        {
+            "id":5,
+            "title":"Content marketing",
+            "slug":"Content marketing",
+            "description":"Learn the art of jazz improvisation with this course designed for all levels. ",
+            "price":139.99,
+            "instructor":"Jessica Lee",
+            "isFeatured":true,
+            "image":"/images/pic5.jpeg"
+        },
+        {
+           "id":6,
+            "title":"social marketing",
+            "slug":"social marketing",
+            "description":"Use Next.js for SEO, dynamic meta tags, fast load times, and personalized content to supercharge your social marketing efforts. ",
+            "price":149.99,
+            "instructor":"Michael Faraday",
+            "isFeatured":true,
+            "image":"/images/pic7.jpeg" 
+        }
+    ]
+}
